@@ -116,13 +116,13 @@ Execute the program using runserver command.
     <td>19CS547</td>
     <td>Fundamental of Cryptocurrency</td>
    </tr>
-
-
+   
     </table>
     </body>
 </html>
 '''
+
 # OUTPUT
-Screenshot (36).png
+![alt text](<Screenshot (36).png>)
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
